@@ -1,0 +1,20 @@
+.WeatherResult {
+}
+
+span {
+  display: block;
+  padding-bottom: 10px;
+}
+
+.City-country {
+  font-size: 40px;
+}
+
+.Temp-now {
+  font-size: 40px;
+}
+
+.Description {
+  margin-top: -25px;
+  margin-bottom: 25px;
+}
